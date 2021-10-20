@@ -30,7 +30,7 @@ function Header() {
 
         <div className="header__optionBasket">
           <ShoppingBasketIcon sx={{ color: "white" }} />
-          <span className="header__optionLineTwo header__basketCount">100</span>
+          <span className="header__optionLineTwo header__basketCount">0</span>
         </div>
       </div>
     </div>
