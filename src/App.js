@@ -30,8 +30,6 @@ function App() {
     };
   }, [dispatch]);
 
-  console.log("USER IS >>", user);
-
   return (
     <Router>
       <div className="App">
